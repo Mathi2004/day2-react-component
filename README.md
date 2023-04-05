@@ -1,1 +1,1 @@
-# day2-react-component
+# Day2-react-component
